@@ -2,7 +2,7 @@ CMPINF_0010_Final_Project
 
 # WHICH NEIGHBORHOOD IS BEST.....
 
-Team Name: 
+## Team Name: 
 	Members:
     Dilara Marasli - dsm87@pitt.edu
       Individual Notebook Name: Dilara-Submetric
